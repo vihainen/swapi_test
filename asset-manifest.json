@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swapi_test/static/css/main.b7d0780e.chunk.css",
+    "main.js": "/swapi_test/static/js/main.522f6e80.chunk.js",
+    "main.js.map": "/swapi_test/static/js/main.522f6e80.chunk.js.map",
+    "runtime-main.js": "/swapi_test/static/js/runtime-main.691b1c56.js",
+    "runtime-main.js.map": "/swapi_test/static/js/runtime-main.691b1c56.js.map",
+    "static/js/2.5f2dbad8.chunk.js": "/swapi_test/static/js/2.5f2dbad8.chunk.js",
+    "static/js/2.5f2dbad8.chunk.js.map": "/swapi_test/static/js/2.5f2dbad8.chunk.js.map",
+    "index.html": "/swapi_test/index.html",
+    "precache-manifest.2efc4810d1634e87720dc309d7863822.js": "/swapi_test/precache-manifest.2efc4810d1634e87720dc309d7863822.js",
+    "service-worker.js": "/swapi_test/service-worker.js",
+    "static/css/main.b7d0780e.chunk.css.map": "/swapi_test/static/css/main.b7d0780e.chunk.css.map",
+    "static/js/2.5f2dbad8.chunk.js.LICENSE": "/swapi_test/static/js/2.5f2dbad8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.691b1c56.js",
+    "static/js/2.5f2dbad8.chunk.js",
+    "static/css/main.b7d0780e.chunk.css",
+    "static/js/main.522f6e80.chunk.js"
+  ]
+}
