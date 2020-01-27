@@ -1,0 +1,28 @@
+.MGLTInput {
+    display: flex;
+    justify-content: center;
+}
+
+.MGLTInput input {
+    box-shadow: none;
+    width: 60vw;
+
+    border: 0;
+    border-bottom: 2px solid #484858;
+    transition: border-color 0.2s;
+
+    margin-right: 2vmin;
+
+    background: transparent;
+    color: #ff0;
+
+    font-size: calc(8px + 1vmin);
+    text-align: right;
+}
+
+.MGLTInput input:focus {
+    font-weight: bold;
+    border-image: linear-gradient(to right, #484858,#ff0);
+    border-image-slice: 1;
+    outline: none;
+}

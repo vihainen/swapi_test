@@ -1,0 +1,47 @@
+.StarshipJumps {
+    display: flex;
+
+    justify-content: center;
+    flex-flow: row wrap;
+
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.StarshipJumps::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+
+.StarshipJumpCard {
+    padding: 1vmin 2vmin;
+}
+
+.StarshipJumpCard.FullInfo {
+    display: flex;
+    justify-content: center;
+
+    flex-basis: 100%;
+
+    order: -1;
+}
+
+.StarshipJumpCard div {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: flex-start;
+
+    flex: 0;
+
+    border: 2px solid;
+    background: #3d3d3d3d;
+    border-radius: 2vmin;
+    padding: 1vmin;
+}
+
+.StarshipJumpCard.FullInfo div {
+    flex-basis: 40%;
+}
